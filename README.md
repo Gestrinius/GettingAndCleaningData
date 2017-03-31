@@ -3,7 +3,8 @@ Getting and Cleaning Data Course Project
 
 This README.md file describes how the 'run_analysis.R' script works.
 
-I recommend you to download the data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder to 'theData' (otherwise the script will download and unzip the data for you).
+I recommend you to download the data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+and rename the folder to 'theData' (otherwise the script will download and unzip the data for you).
 
 Before you run the script 'run_analysis.R' you have to make sure that the script 'run_analysis.R' and theData will be in the same working directory.
 
