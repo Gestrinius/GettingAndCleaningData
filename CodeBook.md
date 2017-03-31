@@ -51,6 +51,7 @@ The script now column binds the 'joinDataX, 'joinDataY' and 'joinSubject into a 
 The script now writes or copies the tidyData to a new "merged_data.txt" file in the working directory as a table.
 
 **Step 5.**
+
 The script generates a second independent tidy data set with the average of each measurement for each activity and each subject.
 The 'subject' variable and the 'activity' variable togeather holds 180 combinations and are stored in a variable labeled 'result'. 
 The script then calculates mean values for each combination of the 'result'.
