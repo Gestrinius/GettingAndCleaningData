@@ -16,5 +16,3 @@ When you have run the script by typing the command above you will find two files
 - data_with_means.txt (219.7 Kb)
 
 Now type 'theData <- read.table("data_with_means.txt")' to get the final data table.
-
-© Erik Gestrinius 2017 All rights reserved.
